@@ -1,0 +1,387 @@
+row|department|action|confidence|category|description
+2|Sales|Optimize|High|CRM|Salesforce CRM and Sales Cloud subscription licences (UK entity); the single largest vendor at ~40% of spend
+3|G&A|Optimize|High|Travel|Navan (formerly TripActions) corporate travel booking and expense management platform
+4|Finance|Consolidate|High|Audit & Tax|BDO UK accounting firm providing statutory audit, tax and advisory services
+5|Facilities|Consolidate|High|Office Space|TOG (The Office Group) flexible serviced office space in London
+6|Professional Services|Optimize|Medium|Salesforce Consulting|Cloudcrossing, Belgian Salesforce implementation and managed-services consultancy
+7|Facilities|Consolidate|High|Office Space|Zagreb Tower office building landlord in Zagreb, Croatia
+8|Facilities|Consolidate|High|Office Space|Innovent Spaces managed/coworking office space provider in Chennai, India
+9|Facilities|Consolidate|Medium|Office Space|Weking, Croatian coworking and office space provider in Zagreb
+10|G&A|Optimize|High|Insurance|Jensten UK insurance broker placing corporate insurance policies (liability, D&O, property)
+11|Facilities|Consolidate|Medium|Office Space|GPT Space & Co, managed office space provider in Australia
+12|G&A|Optimize|High|Employee Benefits|Aetna employee private health insurance cover
+13|M&A|Terminate|High|Deal Advisory|RSM UK Corporate Finance, M&A transaction advisory and due diligence (one-off deal cost)
+14|Engineering|Optimize|High|Cloud Hosting|Amazon Web Services cloud infrastructure hosting and compute (US entity)
+15|SaaS|Consolidate|High|Telecom|Telefonica Global Services, corporate mobile and connectivity services
+16|G&A|Consolidate|Medium|HR / EOR|HR Solution International, employer-of-record and international HR/payroll services (GmbH)
+17|Professional Services|Terminate|Medium|Consulting|4i Advisory Services, management and operational consulting engagement
+18|Legal|Consolidate|Medium|Law Firm|Bisley Law, UK commercial and employment law firm
+19|Engineering|Optimize|High|IT Outsourcing|Infosys IT outsourcing, application development and support services
+20|Marketing|Terminate|High|Creative Agency|Cult of Monday (Big Frontier), creative and digital marketing agency in Australia
+21|G&A|Consolidate|Medium|HR / Benefits|Harmonic Group, employee benefits and HR consultancy (UK)
+22|Facilities|Consolidate|High|Office Space|WeWork coworking office space in Singapore
+23|SaaS|Consolidate|High|Productivity Suite|Cloud Technology Solutions, Google Workspace reseller and cloud IT services partner
+24|G&A|Consolidate|High|Travel|Navan Inc (US entity), corporate travel and expense platform - duplicate of Navan/TripActions contract
+25|Marketing|Optimize|High|Industry Association|TM Forum telecom industry association membership, events and certifications
+26|Sales|Optimize|High|Recruiting / Sales Intel|LinkedIn Sales Navigator, Recruiter and job advertising licences
+27|SaaS|Optimize|High|PSA Software|Kimble professional services automation (PSA) software built on Salesforce
+28|Finance|Consolidate|High|Accounting Software|Sage accounting, ERP and payroll software
+29|Finance|Consolidate|High|Audit & Tax|Grant Thornton accounting firm for audit, tax and advisory services
+30|G&A|Terminate|Medium|Student Staffing|Student Centre of University of Zagreb, student work agency supplying temporary student workers
+31|M&A|Terminate|High|Deal Advisory|SS&C Intralinks virtual data room for M&A due diligence (one-off deal cost)
+32|Facilities|Consolidate|Low|Office Space|Veniture, Croatian office space/real-estate services provider (likely office lease)
+33|Legal|Consolidate|High|Legal Staffing|Accutrainee, provider of seconded trainee solicitors and paralegals
+34|G&A|Consolidate|High|Recruiting|Mason Frank International, specialist Salesforce and Microsoft technology recruitment agency
+35|M&A|Terminate|High|Deal Advisory|Houlihan Lokey investment bank providing M&A advisory and fairness opinions (one-off deal cost)
+36|M&A|Terminate|Medium|Deal Advisory|Vector Capital, private equity sponsor management / transaction fees
+37|Marketing|Consolidate|High|Marketing Automation|HubSpot marketing automation and CRM - overlaps with Salesforce
+38|Professional Services|Terminate|Low|Contractor|Nefron, Croatian sole-trader providing business services (individual contractor)
+39|Finance|Optimize|High|FP&A Software|Planful FP&A budgeting, planning and financial consolidation software
+40|Sales|Consolidate|High|Sales Intelligence|Cognism B2B contact data and sales intelligence platform
+41|Marketing|Terminate|High|Content Marketing|Uberflip content experience / content marketing hub platform
+42|G&A|Optimize|High|Employee Benefits|Agram Life Osiguranje, Croatian life and supplemental health insurance for employees
+43|SaaS|Consolidate|High|Productivity Suite|Google Workspace and Google Cloud / Ads services (Ireland entity)
+44|Legal|Consolidate|High|Law Firm|Zuric i Partneri, Croatian law firm for corporate and employment law
+45|G&A|Optimize|High|Employee Benefits|Care Health Insurance, Indian employee group health insurance
+46|SaaS|Consolidate|Medium|Telecom|New Star Networks, Indian internet / network connectivity provider for office
+47|G&A|Optimize|High|Employee Benefits|Bupa UK private medical insurance for employees
+48|Engineering|Consolidate|Medium|IT Hardware|Shree Info System Solutions, Indian IT hardware and laptop reseller
+49|G&A|Consolidate|High|Recruiting|Technet IT Recruitment, UK technology recruitment agency
+50|Marketing|Terminate|High|Digital Agency|MightyHive (Media.Monks), programmatic media and marketing analytics agency
+51|G&A|Consolidate|High|Recruiting|Cedar Recruitment, UK finance and accounting recruitment agency
+52|Finance|Consolidate|Medium|Audit & Tax|Eurofast, accounting, tax and corporate services firm (Greece/SE Europe)
+53|SaaS|Consolidate|High|Telecom|Hrvatski Telekom, Croatian telecom provider for mobile and internet
+54|G&A|Optimize|High|Employee Benefits|Sodexo India meal vouchers / employee benefit cards
+55|G&A|Consolidate|High|HR Software|Peakon (Workday) employee engagement survey software
+56|Professional Services|Terminate|Low|Consulting|Plus Your Business, UK small-business consulting services
+57|G&A|Optimize|High|Employee Benefits|Benefit Systems (MultiSport), Croatian employee fitness and wellbeing card
+58|Professional Services|Terminate|Low|Contractor|Smart Group Services, Croatian business services company (likely contractor)
+59|Facilities|Consolidate|High|Office Space|JLL (Jones Lang LaSalle) Sydney, real estate / office leasing and facilities management
+60|SaaS|Consolidate|High|Integration Platform|Workato enterprise integration and automation (iPaaS) platform - overlaps Zapier
+61|G&A|Consolidate|High|Office Supplies|Konzum, Croatian supermarket chain for office groceries and snacks
+62|Professional Services|Terminate|Medium|Consulting|Westbrook Advisers, strategy and corporate advisory consultancy
+63|Facilities|Consolidate|High|Office Space|Work Easy Space Solutions, coworking office space in India
+64|Finance|Consolidate|Medium|Audit & Tax|TaxStudio, tax compliance and advisory services
+65|G&A|Terminate|Low|Events / Catering|Pingo, Croatian hospitality or catering business
+66|Engineering|Consolidate|Medium|IT Hardware|Magazin Racunalni Sistemi, Croatian computer hardware reseller
+67|Professional Services|Terminate|Low|Contractor|TP Prime, Croatian business services company (likely contractor)
+68|Finance|Optimize|High|Tax Incentives|GrantTree, R&D tax credit and grant funding advisory (success-fee based)
+69|G&A|Optimize|High|Employee Benefits|Cigna Singapore employee health insurance
+70|Finance|Consolidate|Medium|Audit & Tax|Collards Chartered Accountants, UK accounting and tax firm
+71|G&A|Optimize|High|Employee Benefits|Bupa Australia employee health insurance
+72|Professional Services|Terminate|Medium|Consulting|4i Management Consulting India, management consulting - duplicate of 4i Advisory
+73|G&A|Optimize|Medium|Government Fees|City of Zagreb urban planning office, municipal fees and permits
+74|Professional Services|Terminate|Low|Consulting|Bijeli Pijesak, Croatian sole-trader business consultancy
+75|Professional Services|Terminate|Low|Contractor|Ramiro, Croatian services company (likely contractor)
+76|G&A|Consolidate|High|Immigration|Visalogic, UK immigration and visa services
+77|G&A|Terminate|High|Events|Hanbury Manor hotel and spa, company offsite / event venue
+78|Professional Services|Terminate|Low|Consulting|Shoff Darby Companies, US consulting/insurance services
+79|G&A|Terminate|High|Training|Emerge Development Consultancy, leadership development and coaching
+80|G&A|Consolidate|Medium|HR Software|PerformancePro, performance review and appraisal software - overlaps Peakon
+81|SaaS|Consolidate|High|Productivity Suite|Microsoft 365 / Office licences - overlaps Google Workspace
+82|G&A|Consolidate|Medium|Events / Catering|Catering Muring, Croatian catering for office events
+83|Professional Services|Terminate|Low|Contractor|Omonia, Croatian services company (likely contractor)
+84|Sales|Consolidate|High|Sales Engagement|Outreach sales engagement and email sequencing platform
+85|Facilities|Consolidate|High|Office Space|CBRE, commercial real estate advisory and lease management (UK)
+86|G&A|Terminate|Medium|Student Staffing|Student Centre Split, student work agency for temporary workers
+87|Marketing|Terminate|High|Advertising|The Guardian newspaper advertising / job postings
+88|Finance|Consolidate|High|Corporate Services|Intertrust (CSC) Singapore, corporate secretarial and entity management
+89|SaaS|Consolidate|High|Communications|GoTo (LogMeIn) meetings and remote-support software - overlaps Slack/Google Meet
+90|G&A|Consolidate|Medium|HR / EOR|HR Solution International AG, employer-of-record services - duplicate of GmbH entity
+91|SaaS|Consolidate|High|Project Management|Trello project management boards - overlaps Smartsheet/Aha!
+92|G&A|Terminate|Low|Events / Catering|Obrt Sjaj Sunca, Croatian sole-trader (hospitality/cleaning services)
+93|SaaS|Consolidate|Medium|Telecom|Telefonica Compras Electronicas, Telefonica procurement entity - duplicate of Telefonica
+94|G&A|Optimize|High|Insurance|Allianz Victoria workers' compensation insurance (Australia)
+95|G&A|Optimize|High|Insurance|ICICI Lombard, Indian general and group health insurance
+96|Professional Services|Terminate|Low|Contractor|Mosaic Concept, Croatian services company (likely contractor)
+97|Professional Services|Terminate|Low|Contractor|Limes Plus, Croatian services company (likely contractor)
+98|G&A|Consolidate|High|HR / Benefits|Mercer HR, pensions and benefits consulting
+99|Finance|Consolidate|High|Corporate Services|Acclime corporate services, accounting and entity compliance in Asia
+100|G&A|Optimize|High|Employee Benefits|Green Commute Initiative, UK cycle-to-work employee benefit scheme
+101|G&A|Terminate|High|Events / Catering|Tattu Manchester restaurant, team dinners / entertainment
+102|G&A|Terminate|Low|Events|Athlete Service, sports/athlete services for team activity
+103|Engineering|Consolidate|High|Cloud Hosting|Amazon Web Services Inc. - duplicate AWS billing entity
+104|SaaS|Consolidate|High|Telecom|Telemach Hrvatska, Croatian mobile and internet provider
+105|Finance|Consolidate|High|Corporate Services|Acclime USA, corporate services - duplicate of Acclime
+106|Facilities|Consolidate|Medium|Security|Centar za Sigurnost, Croatian security and alarm services for office
+107|G&A|Terminate|Medium|Events / Catering|Profi Bar, Croatian bar/catering for team events
+108|Finance|Consolidate|High|Audit & Tax|PwC accounting, tax and advisory services
+109|Finance|Consolidate|Medium|Audit & Tax|Pinnacle Partnership chartered accountants
+110|Legal|Consolidate|High|Law Firm|The Virtual Legal Counsel, outsourced in-house legal counsel services (UK)
+111|Finance|Optimize|High|Payroll|Australian Payroll Professionals, outsourced payroll processing in Australia
+112|G&A|Terminate|High|Events|InterContinental Chennai Mahabalipuram resort, team offsite venue
+113|Engineering|Optimize|High|Developer Tools|JetBrains IDE developer tool licences (IntelliJ, etc.)
+114|Finance|Consolidate|High|Audit & Tax|Crowe Horwath Croatia, statutory audit services
+115|G&A|Terminate|High|Events|Puducherry Backwater Resort, team offsite venue in India
+116|Professional Services|Terminate|Low|Consulting|OrionW, US consulting services
+117|Marketing|Optimize|High|Design Software|Adobe Creative Cloud and Acrobat licences
+118|Facilities|Consolidate|High|Office Space|Common Desk coworking office space (US)
+119|Facilities|Consolidate|High|Utilities|HEP Elektra, Croatian electricity utility for office
+120|G&A|Consolidate|Medium|Office Supplies|Zivi Napitak, Croatian beverage supplier for office drinks
+121|G&A|Terminate|High|Employee Benefits|Gym4You, Croatian gym memberships - duplicate of MultiSport benefit
+122|Product|Consolidate|High|Product Management|Aha! product roadmap and management software
+123|Engineering|Consolidate|High|IT Hardware|Apple Store UK, laptops and IT hardware purchases
+124|Engineering|Optimize|High|Certifications|Kryterion test-delivery platform for technical certification exams
+125|Engineering|Optimize|High|Developer Tools|npm private package registry for JavaScript development
+126|Legal|Consolidate|High|Law Firm|Pinsent Masons MPillay, Singapore law firm
+127|G&A|Terminate|Low|Training|Calm Achiever, Indian wellbeing/training services sole proprietor
+128|G&A|Optimize|High|Employee Benefits|Pluxee (Sodexo) India meal benefits - duplicate of Sodexo India
+129|Legal|Consolidate|High|Law Firm|O'Donnell Salzano Lawyers, Australian employment law firm
+130|Engineering|Optimize|High|Monitoring|Papertrail cloud log management and monitoring
+131|Engineering|Consolidate|Medium|IT Hardware|Sniper Systems, Indian Apple reseller for laptops and IT hardware
+132|G&A|Terminate|High|Travel|Trocadero hotel London, employee travel accommodation
+133|Marketing|Optimize|High|SEO|Semrush SEO and digital marketing analytics
+134|Facilities|Consolidate|Medium|Parking|Golubica Parking, Croatian parking spaces for office
+135|SaaS|Consolidate|High|Telecom|Vodafone Australia mobile services
+136|Facilities|Terminate|High|Office Furniture|IKEA Croatia office furniture purchases
+137|Professional Services|Terminate|Low|Contractor|Orcola, Croatian services company (likely contractor)
+138|G&A|Consolidate|High|Recruiting|Info Edge (Naukri.com), Indian job board recruitment advertising
+139|G&A|Optimize|Medium|Government Fees|City of Split municipal fees and taxes
+140|SaaS|Consolidate|High|Telecom|T-Mobile mobile phone services
+141|Professional Services|Terminate|Low|Contractor|Akton, Croatian telecom / services company
+142|Facilities|Optimize|Medium|Compliance|Bureau Veritas Croatia, inspection and certification (safety/ISO compliance)
+143|G&A|Optimize|Medium|Employee Benefits|ICICI Prudential life insurance for employees in India
+144|Engineering|Optimize|Medium|Security|NCC Group, cybersecurity penetration testing and software escrow
+145|SaaS|Consolidate|High|Project Management|Smartsheet work management - overlaps Trello/Aha!
+146|G&A|Terminate|Medium|Events|Good Game Global, Croatian esports/gaming events for team building
+147|Facilities|Consolidate|Medium|Parking|Garaza Firule, Croatian parking garage in Split
+148|Professional Services|Terminate|Low|Consulting|Crossland, consulting/professional services
+149|Engineering|Consolidate|Medium|IT Services|IT London, UK managed IT support services
+150|Marketing|Terminate|High|Events|Terrapinn, B2B conference and trade-show organiser
+151|G&A|Terminate|Low|Training|Elemental Life Solutions, wellbeing / coaching services (India)
+152|G&A|Terminate|High|Office Supplies|The Goodness Project, healthy snack boxes for office
+153|Finance|Consolidate|Medium|Audit & Tax|McBurneys Chartered Accountants
+154|G&A|Terminate|High|Events|Cleverland winery resort, team event venue
+155|Engineering|Optimize|High|Developer Tools|AG Grid JavaScript data-grid component licence
+156|Sales|Terminate|High|Sales Intelligence|Lusha B2B contact data - duplicate of Cognism
+157|G&A|Terminate|Medium|Events / Catering|My Foodiverse, catering services in India
+158|Marketing|Consolidate|High|Merchandise|4imprint branded promotional merchandise
+159|G&A|Terminate|High|Events / Catering|City Pantry office catering delivery (London)
+160|Professional Services|Terminate|Medium|Contractor|Stipe Piric, individual contractor payment
+161|Facilities|Terminate|High|Office Move|Office Move London, office relocation services (one-off)
+162|Marketing|Terminate|Medium|Merchandise|Pink Ribbon Shop, charity merchandise / donation
+163|SaaS|Consolidate|High|Telecom|StarHub Singapore mobile/internet services
+164|Finance|Consolidate|Medium|Audit & Tax|N S Shastri & Co, Indian chartered accountants
+165|Professional Services|Terminate|Medium|Contractor|John Smith, individual contractor/expense payee
+166|Professional Services|Terminate|Medium|Contractor|Fabiola Thistlewhaite, individual contractor/expense payee
+167|Engineering|Consolidate|High|IT Hardware|HP UK laptops, printers and IT hardware
+168|Marketing|Optimize|High|PR|Cision PR Newswire press release distribution and media monitoring
+169|Professional Services|Terminate|Medium|Contractor|George Anchor, individual contractor/expense payee
+170|Sales|Terminate|Medium|Sales Intelligence|Yoxel sales calendar / engagement tool - overlaps Outreach
+171|G&A|Terminate|High|Travel|GRT Hotels & Resorts, employee travel accommodation in India
+172|Engineering|Consolidate|High|IT Hardware|Apple Australia, laptops and hardware
+173|SaaS|Optimize|High|Communications|Slack team messaging and collaboration
+174|Legal|Optimize|High|Notary|G S Notary Public, notarisation and legalisation of documents
+175|Engineering|Consolidate|High|IT Hardware|Apple Distribution International, hardware and App Store purchases
+176|Finance|Consolidate|Medium|Audit & Tax|Porezno Savjetnistvo Tuk, Croatian tax advisory
+177|Professional Services|Terminate|Medium|Contractor|Susan Lee, individual contractor/expense payee
+178|Professional Services|Terminate|Medium|Contractor|Ansar Madovic, individual contractor/expense payee
+179|Professional Services|Terminate|Medium|Consulting|Radius Group, global entity management and EOR/accounting services
+180|Professional Services|Terminate|Low|Contractor|Aquila Remete, Croatian services company
+181|Facilities|Consolidate|Medium|Facilities Services|Clime India, air-conditioning / facilities maintenance
+182|Professional Services|Terminate|Low|Consulting|Golden Mean, US consulting services
+183|G&A|Terminate|High|Events|Paint & Fun, team-building painting workshop
+184|Marketing|Terminate|Medium|PR|Carrington Communications, PR and communications agency
+185|Engineering|Terminate|Medium|Design Agency|Crayond, Indian UX/UI design agency
+186|G&A|Terminate|Medium|Student Staffing|Student Centre Karlovac, student work agency
+187|G&A|Terminate|High|Events|Lajnap comedy booking, entertainment for company event
+188|SaaS|Consolidate|High|Telecom|British Telecom phone and broadband services
+189|G&A|Terminate|Medium|Events / Catering|ETM Concessions, venue catering/hospitality (UK)
+190|G&A|Terminate|High|Travel|Radisson GRT hotel, employee travel accommodation
+191|Finance|Terminate|High|Procurement Software|SAP Ariba procurement network fees - low usage
+192|G&A|Terminate|High|Events|Chamiers Recreation Club, venue for team events (India)
+193|Legal|Consolidate|Medium|Law Firm|Quadrant Law, Singapore law firm
+194|SaaS|Optimize|High|E-signature|DocuSign e-signature software
+195|G&A|Optimize|Medium|Employee Benefits|Inside Edge novated car leasing salary-packaging (Australia)
+196|Professional Services|Terminate|Low|Contractor|Rhea, Croatian services company
+197|G&A|Terminate|High|Events|P S Recreation Club, venue for team events (India)
+198|Finance|Optimize|High|Payments|FastSpring e-commerce payment / reseller platform fees
+199|G&A|Terminate|Medium|Logistics|DSV logistics freight and shipping
+200|Legal|Consolidate|Medium|Law Firm|Curzon Green Solicitors, UK law firm
+201|G&A|Optimize|High|Insurance|icare NSW workers' compensation insurance (Australia)
+202|Legal|Consolidate|Medium|Law Firm|Thomas Mansfield Solicitors, UK employment law firm
+203|G&A|Consolidate|High|Office Supplies|Amazon UK office supplies purchases
+204|Professional Services|Terminate|Medium|Consulting|BackOffice Associates, data migration and data quality consulting
+205|Professional Services|Terminate|Low|Contractor|Oladi, Croatian services company
+206|G&A|Consolidate|Medium|Staffing|Integrated Personnel Services, temporary staffing (India)
+207|G&A|Terminate|High|Office Supplies|Muller, Croatian drugstore - office consumables
+208|G&A|Terminate|Medium|Events / Catering|Lunch Nutrition, Croatian meal delivery for office
+209|G&A|Terminate|High|Travel|Winmaxi Tours & Travels, Indian travel agency - should go through Navan
+210|Marketing|Terminate|Medium|Video Production|Digitalna Produkcija, Croatian video/digital production
+211|Finance|Optimize|High|Equity Management|Computershare (Caboodle), employee share plan administration
+212|G&A|Optimize|High|Insurance|Allianz WA workers' compensation insurance (Australia)
+213|Engineering|Terminate|Low|IT Services|Trending Technology Services, IT consulting (Germany)
+214|Engineering|Optimize|High|Domains|GoDaddy domain registration and DNS - consolidate with DNSimple
+215|Marketing|Terminate|Medium|Advertising|Time Out Group, advertising / events listing
+216|Finance|Optimize|High|Bank Fees|Raiffeisenbank Austria Croatia, bank account and transaction fees
+217|G&A|Terminate|Medium|Travel|Galop Prijevoz, Croatian transport/bus hire
+218|Legal|Optimize|High|IP|Lane IP, trademark and intellectual property attorneys
+219|G&A|Terminate|High|Events|Urbani Eventi, Croatian event organisation
+220|Marketing|Terminate|High|Events|Smashing Media, web design conference tickets (SmashingConf)
+221|G&A|Consolidate|High|Training|Epignosis (TalentLMS) learning management system
+222|G&A|Terminate|High|Travel|Croatia Airlines flights booked outside Navan
+223|G&A|Terminate|Low|Events|BB Football Scouting, Croatian sports activity for team event
+224|G&A|Terminate|Low|Events / Catering|BOE Croatia, hospitality services
+225|G&A|Terminate|Low|Events / Catering|Potomac, Croatian hospitality services
+226|G&A|Terminate|High|Travel|President Hotel and Tower, employee travel accommodation
+227|G&A|Terminate|High|Events|Friends Sports Club, team sports activity
+228|G&A|Terminate|High|Employee Benefits|The Cycle Gap Adyar, fitness studio membership (India)
+229|Engineering|Consolidate|High|IT Hardware|Apple Americas, hardware purchases
+230|Legal|Consolidate|Medium|Law Firm|Kalra Legal Group, Indian law firm
+231|Legal|Consolidate|Medium|Law Firm|Kilgannon & Partners, UK law firm
+232|G&A|Optimize|High|Virtual Office|UK Postbox virtual mail and registered office service
+233|G&A|Terminate|Medium|Events / Catering|Catering Ivic, Croatian catering
+234|G&A|Terminate|High|Events|Blink Events, event management
+235|Marketing|Terminate|Medium|Printing|Grafo-Jan, Croatian printing services
+236|G&A|Terminate|Low|Events / Catering|Mesa Verde restaurant
+237|Marketing|Terminate|High|Image Licensing|Pixsy image copyright enforcement / licence claim
+238|Finance|Optimize|High|Credit Data|Dun & Bradstreet Croatia, company credit reports and data
+239|Legal|Consolidate|High|Law Firm|IndusLaw, Indian corporate law firm
+240|G&A|Terminate|Medium|Logistics|Trans-Agram, Croatian courier and delivery
+241|Legal|Consolidate|Medium|Law Firm|Landu Law Solicitors, UK law firm
+242|G&A|Terminate|High|Events|Arena Center Zagreb, shopping/entertainment venue for event
+243|G&A|Terminate|Medium|Events / Catering|Mirakul, Croatian catering/hospitality
+244|G&A|Terminate|High|Events / Catering|Oakberry acai bowls, team food
+245|Engineering|Terminate|Low|IT Services|Tau On-Line, Croatian IT/online services
+246|G&A|Terminate|High|Events / Catering|Magic Mountain Saloon, bar/restaurant for team event
+247|G&A|Terminate|High|Travel|Hotel Zonar Zagreb, employee travel accommodation
+248|G&A|Terminate|Low|Office Supplies|Roto Dinamic, Croatian printing/office supplies
+249|Marketing|Consolidate|High|Industry Association|TM Forum - duplicate of TMForum vendor record
+250|G&A|Terminate|High|Travel|Marvie Hotel Split, employee travel accommodation
+251|Marketing|Consolidate|Medium|Merchandise|Merchandise Ltd, branded promotional products - consolidate with 4imprint
+252|G&A|Terminate|High|Events / Catering|Yellow Submarine, Croatian bar/restaurant
+253|Professional Services|Terminate|Low|Consulting|StreamlineReforms, consulting services
+254|G&A|Terminate|Low|Training|Make and Grow, workshop/training
+255|G&A|Terminate|High|Travel|Obiteljski Hoteli, hotel accommodation in Croatia
+256|G&A|Terminate|Low|Events / Catering|Rudan, Croatian hospitality services
+257|Marketing|Terminate|High|Event Ticketing|Entrio, Croatian event ticketing platform
+258|G&A|Terminate|High|Gifts|Vivat Fina Vina, Croatian wine shop - client/employee gifts
+259|Product|Optimize|High|Design Software|Figma collaborative UI design software
+260|Engineering|Terminate|Medium|IT Hardware|E-Disti, Croatian IT/electronics distributor
+261|G&A|Terminate|Medium|Logistics|Greencell Express, Indian courier/transport
+262|G&A|Terminate|High|Travel|The Londoner hotel, employee travel accommodation
+263|G&A|Terminate|Low|Events / Catering|Tiganda, Croatian hospitality services
+264|Legal|Consolidate|Medium|Law Firm|Franklin, Gringer & Cohen, US employment law firm
+265|G&A|Terminate|High|Events|CineStar cinema, team outing
+266|G&A|Terminate|High|Travel|Lancefield Bus Service, group bus hire (Australia)
+267|G&A|Terminate|Low|Travel|Super Odrediste, Croatian travel agency
+268|Engineering|Optimize|High|Certifications|PMI project management certification fees
+269|G&A|Terminate|Medium|Office Move|Student Packers & Movers, relocation services (India)
+270|G&A|Terminate|High|Events / Catering|Del Posto restaurant, team meal
+271|G&A|Terminate|Medium|Training|Inicijativa education centre, training course (Croatia)
+272|G&A|Terminate|Low|Travel|Niva Transport, Croatian transport services
+273|G&A|Optimize|High|Employee Benefits|Doctor Anywhere telehealth employee benefit (Singapore)
+274|G&A|Terminate|High|Office Supplies|Spar Croatia supermarket, office groceries
+275|G&A|Terminate|High|Events / Catering|Pepe's Italian restaurant, team meal
+276|Engineering|Consolidate|High|Training|Pluralsight online technical training - overlaps TalentLMS
+277|G&A|Terminate|High|Events|Maniax axe-throwing, team-building activity
+278|Engineering|Consolidate|High|Domains|DNSimple domain and DNS management - overlaps GoDaddy
+279|G&A|Terminate|Low|Staffing|Treci Posao, Croatian staffing/job services
+280|G&A|Terminate|High|Events / Catering|Gaucho restaurant, team/client meal
+281|Legal|Terminate|High|Legal Templates|FormSwift online legal form templates - redundant with law firms/DocuSign
+282|Facilities|Terminate|High|Storage|Safestore self-storage unit
+283|Marketing|Terminate|Medium|Events|Split Tech City, tech community event sponsorship
+284|Finance|Optimize|High|Corporate Services|NSDL, Indian securities depository fees (statutory)
+285|Professional Services|Terminate|Low|Contractor|Adamma Info Services, Indian IT services
+286|G&A|Terminate|High|Events / Catering|Riding House Cafe, team/client meal
+287|G&A|Terminate|Low|Office Supplies|Stillmark Zagreb, office supplies/printing
+288|Engineering|Optimize|High|Security|LastPass password manager licences
+289|G&A|Terminate|Medium|Events / Catering|Taste of Health, catering
+290|Engineering|Terminate|Low|IT Services|Infodata, IT/data services
+291|G&A|Consolidate|High|Office Supplies|Amazon Australia office supplies
+292|G&A|Terminate|High|Gifts|Regency Hampers, client/employee gift hampers
+293|G&A|Terminate|Medium|Events|Bella Center Copenhagen, conference venue
+294|Facilities|Terminate|High|Office Plants|The Plant Man, office plant hire and maintenance
+295|Marketing|Terminate|Medium|Merchandise|Media Promo Plus, Croatian promotional products
+296|Facilities|Terminate|Low|Facilities Services|Expert-Ing, Croatian engineering/maintenance services
+297|Engineering|Optimize|High|Developer Tools|Atlassian Jira/Confluence licences
+298|G&A|Terminate|High|Events|DJs For U, DJ entertainment for company party
+299|Marketing|Consolidate|High|Stock Images|Freepik stock images and graphics - overlaps Adobe
+300|G&A|Optimize|Medium|Occupational Health|Andrija Stampar public health institute, employee medical checks
+301|G&A|Terminate|High|Events|Rishi Events, event entertainment (India)
+302|Engineering|Terminate|Low|IT Services|Kosmaz Technologies Croatia, IT services
+303|G&A|Consolidate|High|Logistics|DHL courier shipping
+304|G&A|Terminate|High|Travel|Hotel Laguna, hotel accommodation in Croatia
+305|Finance|Optimize|High|Corporate Services|Bigshare, Indian share registrar fees
+306|Engineering|Terminate|Low|Hosting|Zettanet, web hosting services
+307|G&A|Terminate|High|Travel|Hahn Air, flight booking outside Navan
+308|G&A|Terminate|Medium|Employee Benefits|Vitality Works, corporate wellness program (Australia)
+309|SaaS|Consolidate|High|Telecom|Avoxi cloud phone / virtual numbers
+310|SaaS|Terminate|High|Integration Platform|Zapier automation - duplicate of Workato
+311|Engineering|Optimize|High|Monitoring|SolarWinds IT monitoring (Pingdom/Papertrail)
+312|Professional Services|Terminate|Low|Consulting|Xenon Savjetovanje, Croatian consulting
+313|G&A|Terminate|High|Gifts|Floom, flower delivery
+314|G&A|Terminate|High|Gifts|Notino, online cosmetics/perfume - gifts
+315|G&A|Terminate|High|Events|Paint&Wine team-building workshop
+316|G&A|Consolidate|High|Logistics|Parcelforce courier
+317|Professional Services|Terminate|Low|Consulting|Advena, consulting services
+318|Marketing|Optimize|High|Industry Association|Croatian Independent Software Exporters association membership
+319|G&A|Terminate|Low|Events / Catering|Monile, Croatian hospitality services
+320|Marketing|Terminate|Medium|Merchandise|Puzzle Promotion, promotional items
+321|Facilities|Optimize|Medium|Utilities|Zagreb Holding, municipal utilities (waste, water) for office
+322|G&A|Terminate|Medium|Events|Event ORS, event services
+323|G&A|Terminate|High|Events|Sportkart, go-karting team-building activity
+324|Product|Terminate|High|Training|Interaction Design Foundation UX courses - overlaps Pluralsight
+325|G&A|Terminate|Low|Unknown|Blank vendor name - unidentified spend, needs investigation
+326|G&A|Terminate|High|Events|Escape Art, escape-room team-building
+327|Facilities|Terminate|Low|Facilities Services|Fero-Term, Croatian heating/plumbing maintenance
+328|G&A|Optimize|Medium|Occupational Health|Healthcare institution, employee medical checks (Croatia)
+329|Marketing|Consolidate|High|Printing|Vistaprint business cards and printing
+330|Professional Services|Terminate|Low|Consulting|TEB Poslovno Savjetovanje, Croatian business/accounting advisory
+331|Professional Services|Terminate|Low|Contractor|Illunis, Croatian services company
+332|G&A|Terminate|High|Events / Catering|The Cook Kitchen, catering
+333|Finance|Optimize|High|Government Fees|Australian Taxation Office tax payments/penalties
+334|Legal|Optimize|High|Registered Agent|Capitol Services, US registered agent services
+335|Professional Services|Terminate|Low|Consulting|Bonus Opinio, Croatian consulting
+336|G&A|Consolidate|High|Logistics|DHL Express UK - duplicate of DHL
+337|G&A|Terminate|High|Events / Catering|Kat's Kitchen, catering
+338|G&A|Terminate|High|Events / Catering|Soho Kitchen, team meal
+339|G&A|Terminate|Low|Office Supplies|Fortis Trade, Croatian trading company
+340|G&A|Terminate|Low|Office Supplies|Till Trade, Croatian trading company
+341|G&A|Terminate|High|Events / Catering|Pret A Manger, food purchases
+342|G&A|Terminate|High|Office Supplies|Axil Coffee Roasters, office coffee
+343|G&A|Terminate|High|Office Supplies|Pepco, household goods for office
+344|G&A|Terminate|Low|Office Supplies|Lemia, Croatian retail
+345|Engineering|Terminate|Low|IT Services|Retriever, data/IT services
+346|G&A|Terminate|Low|Unknown|Meluba Limited, unidentified small UK vendor
+347|Facilities|Terminate|High|Waste|London Waste Management, office waste collection
+348|G&A|Terminate|High|Travel|Hilton Garden Inn Zagreb, employee travel accommodation
+349|Marketing|Terminate|High|Advertising|Lider Media, Croatian business newspaper subscription/ads
+350|Engineering|Consolidate|High|Monitoring|UptimeRobot website monitoring - overlaps SolarWinds
+351|Professional Services|Terminate|Low|Consulting|Mithras Consultants
+352|Sales|Terminate|High|Sales Intelligence|6sense account-based marketing / intent data - overlaps Cognism
+353|Legal|Optimize|High|Compliance|UK Information Commissioner's Office data protection fee (statutory)
+354|G&A|Terminate|High|Events|Sports club Split, team sports activity
+355|G&A|Terminate|High|Gifts|Prezzee digital gift cards
+356|SaaS|Consolidate|High|Telecom|iNet Telecoms VoIP phone services
+357|G&A|Terminate|High|Events / Catering|Wolt food delivery
+358|G&A|Terminate|High|Office Supplies|Platinum Office, Croatian office supplies
+359|Marketing|Terminate|High|Printing|Snappy Snaps photo printing
+360|G&A|Terminate|Low|Office Supplies|New Block, Croatian retail
+361|Finance|Optimize|High|Government Fees|Cayman Islands Government entity registration fees
+362|G&A|Terminate|High|Office Supplies|Officeworks office supplies (Australia)
+363|SaaS|Terminate|High|Communications|ClickSend SMS messaging
+364|Marketing|Terminate|High|Printing|Kall Kwik print centre
+365|G&A|Terminate|Medium|Travel|Shilton Hospitality, hotel accommodation
+366|Engineering|Terminate|High|Developer Tools|GitKraken Git client - free alternatives exist
+367|G&A|Terminate|High|Gifts|Istra Wine, wine gifts
+368|G&A|Terminate|High|Logistics|Gophr same-day courier
+369|G&A|Terminate|High|Events / Catering|Pan-Pek bakery, Croatia
+370|G&A|Terminate|High|Events / Catering|Uber Eats food delivery
+371|G&A|Consolidate|High|Logistics|FedEx Express UK courier
+372|G&A|Terminate|Low|Office Supplies|Garden City, Croatian retail
+373|G&A|Terminate|Low|Events / Catering|Livingstone, restaurant/bar
+374|G&A|Terminate|High|Office Supplies|eKupi, Croatian online electronics retailer
+375|G&A|Terminate|High|Office Supplies|Farmacia, Croatian pharmacy - first-aid supplies
+376|G&A|Terminate|High|Events / Catering|Cupcake Central bakery
+377|G&A|Consolidate|High|Logistics|Post Office UK postage
+378|G&A|Terminate|High|Office Supplies|Currys PC World electronics
+379|G&A|Terminate|Medium|Office Supplies|Brodomerkur, Croatian retail
+380|G&A|Terminate|High|Employee Benefits|Sport Vision, sports retail
+381|G&A|Terminate|Low|Events / Catering|Harissa, restaurant
+382|G&A|Optimize|High|Occupational Health|Occupational medicine clinic (Dr. Kardos), employee medical checks
+383|G&A|Consolidate|High|Occupational Health|Occupational medicine clinic (Dr. Blazic) - consolidate to one provider
+384|G&A|Consolidate|High|Occupational Health|Occupational medicine clinic (Dr. Novacki) - consolidate to one provider
+385|G&A|Terminate|High|Events / Catering|M&S Simply Food purchases
+386|G&A|Terminate|High|Events / Catering|Bakemono Bakers, Melbourne
+387|G&A|Terminate|High|Office Supplies|Coles supermarket (Australia)

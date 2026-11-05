@@ -1,0 +1,119 @@
+Vendors in source: 386
+Vendors classified: 386
+Source total spend: $7,887,360.40
+Classified total spend: $7,887,360.40
+QA issues: 0
+
+== Spend by department ==
+Sales                           7 vendors  $    3,213,743   40.7%
+G&A                           175 vendors  $    1,361,525   17.3%
+Facilities                     25 vendors  $    1,046,933   13.3%
+Finance                        27 vendors  $      571,962    7.3%
+Professional Services          38 vendors  $      476,040    6.0%
+SaaS                           23 vendors  $      338,821    4.3%
+Engineering                    35 vendors  $      259,170    3.3%
+Marketing                      30 vendors  $      234,874    3.0%
+M&A                             4 vendors  $      226,932    2.9%
+Legal                          19 vendors  $      153,072    1.9%
+Product                         3 vendors  $        4,287    0.1%
+
+== Spend by action ==
+Optimize                       67 vendors  $    4,559,784   57.8%
+Consolidate                   111 vendors  $    2,494,400   31.6%
+Terminate                     208 vendors  $      833,176   10.6%
+
+== Spend by category ==
+CRM                             1 vendors  $    3,117,226   39.5%
+Office Space                   11 vendors  $    1,019,664   12.9%
+Audit & Tax                    11 vendors  $      455,800    5.8%
+Travel                         20 vendors  $      430,352    5.5%
+Employee Benefits              17 vendors  $      275,770    3.5%
+Deal Advisory                   4 vendors  $      226,932    2.9%
+Salesforce Consulting           1 vendors  $      208,675    2.6%
+Insurance                       5 vendors  $      156,891    2.0%
+Telecom                        11 vendors  $      154,109    2.0%
+Consulting                     17 vendors  $      150,655    1.9%
+Contractor                     20 vendors  $      116,710    1.5%
+Cloud Hosting                   2 vendors  $      111,552    1.4%
+Law Firm                       13 vendors  $      110,956    1.4%
+Productivity Suite              3 vendors  $       95,281    1.2%
+HR / EOR                        2 vendors  $       87,810    1.1%
+Recruiting                      4 vendors  $       82,174    1.0%
+HR / Benefits                   2 vendors  $       70,861    0.9%
+IT Outsourcing                  1 vendors  $       66,570    0.8%
+Creative Agency                 1 vendors  $       66,131    0.8%
+Industry Association            3 vendors  $       58,224    0.7%
+Events / Catering              37 vendors  $       56,708    0.7%
+Recruiting / Sales Intel        1 vendors  $       55,573    0.7%
+Student Staffing                3 vendors  $       54,117    0.7%
+PSA Software                    1 vendors  $       52,825    0.7%
+IT Hardware                     9 vendors  $       50,895    0.6%
+Accounting Software             1 vendors  $       46,895    0.6%
+Events                         28 vendors  $       45,301    0.6%
+Legal Staffing                  1 vendors  $       38,841    0.5%
+Marketing Automation            1 vendors  $       32,187    0.4%
+Sales Intelligence              4 vendors  $       31,738    0.4%
+FP&A Software                   1 vendors  $       27,741    0.4%
+HR Software                     2 vendors  $       27,126    0.3%
+Office Supplies                23 vendors  $       26,460    0.3%
+Content Marketing               1 vendors  $       26,091    0.3%
+Training                        8 vendors  $       19,054    0.2%
+Digital Agency                  1 vendors  $       19,042    0.2%
+Corporate Services              5 vendors  $       18,236    0.2%
+Integration Platform            2 vendors  $       16,268    0.2%
+Government Fees                 4 vendors  $       15,298    0.2%
+Tax Incentives                  1 vendors  $       13,659    0.2%
+Immigration                     1 vendors  $       11,241    0.1%
+Developer Tools                 5 vendors  $       10,550    0.1%
+Project Management              2 vendors  $        9,669    0.1%
+Communications                  3 vendors  $        9,361    0.1%
+Sales Engagement                1 vendors  $        9,206    0.1%
+Advertising                     3 vendors  $        9,071    0.1%
+Security                        3 vendors  $        8,291    0.1%
+Parking                         2 vendors  $        6,656    0.1%
+Merchandise                     5 vendors  $        5,546    0.1%
+IT Services                     6 vendors  $        4,857    0.1%
+Payroll                         1 vendors  $        4,399    0.1%
+Design Software                 2 vendors  $        4,388    0.1%
+Monitoring                      3 vendors  $        4,144    0.1%
+Certifications                  2 vendors  $        3,920    0.0%
+Utilities                       2 vendors  $        3,878    0.0%
+PR                              2 vendors  $        3,764    0.0%
+SEO                             1 vendors  $        3,730    0.0%
+Product Management              1 vendors  $        3,689    0.0%
+Office Furniture                1 vendors  $        3,610    0.0%
+Compliance                      2 vendors  $        3,267    0.0%
+Logistics                       9 vendors  $        2,796    0.0%
+Office Move                     2 vendors  $        2,664    0.0%
+Facilities Services             3 vendors  $        2,034    0.0%
+Notary                          1 vendors  $        1,935    0.0%
+Design Agency                   1 vendors  $        1,646    0.0%
+Procurement Software            1 vendors  $        1,363    0.0%
+Staffing                        2 vendors  $        1,362    0.0%
+E-signature                     1 vendors  $        1,308    0.0%
+Domains                         2 vendors  $        1,235    0.0%
+Payments                        1 vendors  $        1,179    0.0%
+Gifts                           6 vendors  $        1,155    0.0%
+Video Production                1 vendors  $          993    0.0%
+Equity Management               1 vendors  $          981    0.0%
+Bank Fees                       1 vendors  $          920    0.0%
+Printing                        4 vendors  $          907    0.0%
+IP                              1 vendors  $          851    0.0%
+Virtual Office                  1 vendors  $          670    0.0%
+Image Licensing                 1 vendors  $          613    0.0%
+Credit Data                     1 vendors  $          610    0.0%
+Event Ticketing                 1 vendors  $          473    0.0%
+Occupational Health             5 vendors  $          391    0.0%
+Legal Templates                 1 vendors  $          301    0.0%
+Storage                         1 vendors  $          287    0.0%
+Office Plants                   1 vendors  $          235    0.0%
+Unknown                         2 vendors  $          225    0.0%
+Stock Images                    1 vendors  $          203    0.0%
+Hosting                         1 vendors  $          183    0.0%
+Registered Agent                1 vendors  $          120    0.0%
+Waste                           1 vendors  $           86    0.0%
+
+== Spend by confidence ==
+High                          234 vendors  $    6,513,549   82.6%
+Medium                         90 vendors  $    1,138,514   14.4%
+Low                            62 vendors  $      235,297    3.0%

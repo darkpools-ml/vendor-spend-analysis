@@ -1,0 +1,7 @@
+Total 12-month spend: $7,887,360
+Opp 1 Salesforce: CRM $3,117,226 x25% + Cloudcrossing $208,675 x40% = $862,777
+Opp 2 Offices: office space $1,019,664 x50% = $509,832
+Opp 3 Advisors: audit/tax $455,800 x30% + deal advisory $226,932 x100% + consultants/contractors $267,365 x60% = $524,091
+Top 3 total: $1,896,700 (24.0% of spend)
+Other (not in Top 3): travel $430,352 x20% + tail spend $129,624 x70% = $176,807
+Grand total identified: $2,073,507 (26.3%)
